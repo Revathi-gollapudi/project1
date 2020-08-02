@@ -25,7 +25,7 @@ header{
 h1{
 	font-size: 600%;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	text-align: center;
 	color: #00D8F5;
 	line-height: 0%;
@@ -138,7 +138,7 @@ a.homelink{
 	text-decoration: none;
     position: absolute;
     font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	line-height: 450%;
 	padding: 0vw 3vw;
 	background-color:#595252;
@@ -151,7 +151,7 @@ a.htmllink{
 	text-decoration: none;
     position: absolute;
     font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	line-height: 450%;
 	padding: 0vw 3vw;
 	background-color:#595252;
@@ -164,7 +164,7 @@ a.csslink{
 	text-decoration: none;
 	position: absolute;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	line-height: 450%;
 	padding: 0vw 4vw;
 	background-color:#595252;
@@ -177,7 +177,7 @@ a.jslink{
 	text-decoration: none;
 	position: absolute;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	line-height: 450%;
 	padding: 0vw 4.6vw;
 	background-color:#595252;
@@ -230,7 +230,7 @@ a.htmllink:focus,a.csslink:focus,a.jslink:focus,a.homelink;focus{
 a.interln1{
 	text-decoration: none;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	font-size: 2vw;
 	color:white;
 	padding-right:2vw;
@@ -241,7 +241,7 @@ a.interln1{
 a.interln2{
 	text-decoration: none;
 	font-style: italic;
-	font-family: cursive;
+    font-family: Arial, Helvetica;
 	font-size: 2vw;
 	color:white;
 	padding-right:2vw;
@@ -252,7 +252,7 @@ a.interln2{
 a.interln3{
 	text-decoration: none;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	font-size: 2vw;
 	color:white;
 	padding-right:2vw;
@@ -299,7 +299,7 @@ h3{
 	text-align: center;
 	font-size: 320%;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
     text-align: center;
     color:  #00D8F5;
     text-shadow: 4px 4px #0e0b28;
@@ -307,7 +307,7 @@ h3{
 
 .para{
 font-style: italic;
-font-family: cursive;
+font-family: Arial, Helvetica;
 font-size: 1.15rem;
 line-height: 1.5;
 color: white;
@@ -319,7 +319,7 @@ a.link{
 	text-decoration: none;
     text-align: center;
     font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	line-height: 450%;
 	padding: 1vw 10vw;
 	border:1px solid white;
@@ -335,7 +335,7 @@ a.link{
 .sidehead{
 	font-weight: bolder;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	font-size: 1.7rem;
 }
 
@@ -343,14 +343,14 @@ a.link{
 	color: white;
 	font-weight: bold;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	font-size: 1.4rem;
 }
 
 .sideinfo{
 	color: white;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	margin-left: 1.5vw;
 }
 
@@ -392,7 +392,7 @@ a.link:focus{
 h2{
 	font-size: 270%;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	text-align: center;
 	color: #00D8F5;
 	text-shadow: 4px 4px #474461;
@@ -418,7 +418,7 @@ h2{
 	color: white;
 	font-size: 1.3rem;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	margin-left: 1.5vw;
 }
 
@@ -429,7 +429,7 @@ h2{
 
 .answer{
    font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	color: white;
 
 }
@@ -437,7 +437,7 @@ h2{
 .hans{
 	color: black;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	font-size: 1.3rem;
 	margin-left: 2.5rem;
 	font-weight: bolder;
@@ -448,7 +448,7 @@ h2{
 	display: none;
 	color: white;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	font-size: 1.1rem;
 	margin-left: 2.5rem;
 	font-weight: bold;
@@ -461,7 +461,7 @@ hr{
 .prog{
 	color: white;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	font-size: 1.1rem;
 	margin-left: 2rem;
 }
@@ -481,7 +481,7 @@ footer{
     font-weight: bolder;
     color: white;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	font-size: 1.4rem;
 	text-align: center;
 
@@ -490,7 +490,7 @@ footer{
 .us{
     color: white;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	font-size: 1.1rem;
 	text-align: center;
 }
@@ -498,14 +498,11 @@ footer{
 .foot{
     color: white;
 	font-style: italic;
-	font-family: cursive;
+	font-family: Arial, Helvetica;
 	font-size: 1.1rem;
 	text-align: center;
 }
 
-*{
-	font-family: Arial, Helvetica;
-}
 
 
 
